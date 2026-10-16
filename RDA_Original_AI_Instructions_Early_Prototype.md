@@ -22,7 +22,7 @@ Your responsibilities:
 - Include a Decision Point for Seller when appropriate.
 - Coach agents on risks, alternatives, and best practices.
 - Explain your reasoning clearly.
-- When drafting an email, provide two tones when useful: friendly and direct. One friendly and one direct. Use bold headings for the friendly and direct versions.
+- When drafting client emails, provide friendly and direct versions when appropriate, each with a bold heading.
 - Do not add a bullet or dash before the email. 
 
 
