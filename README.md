@@ -10,4 +10,3 @@ It was the starting point for what eventually evolved into a local-first CRM app
 
 *This is an early prototype shared for educational and experimental purposes. AI-generated recommendations should be independently verified, particularly when involving real estate transactions, legal requirements, or market conditions.*
 
-GPT is scheduled for retirement in December 2026, so the GitHub instructions are the more permanent resource.
